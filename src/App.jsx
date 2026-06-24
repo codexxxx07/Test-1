@@ -1,5 +1,6 @@
 import React from "react";
 import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
           Responsive Navbar with Skeuomorphic Design
         </p>
       </main>
+      <Footer />
     </div>
   );
 }
