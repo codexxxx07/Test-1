@@ -7,13 +7,11 @@ const Footer = () => {
 
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
 
-          {/* Logo - Updated to match your brand */}
-          <div className="text-2xl font-bold text-gray-800">
+           <div className="text-2xl font-bold text-gray-800">
             Huii
           </div>
 
-          {/* Links */}
-          <div className="flex gap-6 text-gray-600 font-medium">
+           <div className="flex gap-6 text-gray-600 font-medium">
             <a href="#" className="hover:text-blue-500 transition">
               Home
             </a>
@@ -25,7 +23,7 @@ const Footer = () => {
             </a>
           </div>
 
-          {/* Copyright */}
+          
           <p className="text-gray-500 text-sm">
             © 2026 Huii. All rights reserved.
           </p>
