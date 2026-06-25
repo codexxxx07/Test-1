@@ -1,9 +1,7 @@
-import React from "react";
 
 const Footer = () => {
   return (
-    <footer className="bg-linear-to-b from-gray-100 to-gray-200 shadow-inner mt-auto">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+<footer className="bg-transparent border-t border-border/40 py-6 text-center">      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
          <div className="flex flex-col sm:flex-row justify-between items-center gap-4">
           
            <div className="text-2xl font-bold text-gray-800 tracking-wide">
